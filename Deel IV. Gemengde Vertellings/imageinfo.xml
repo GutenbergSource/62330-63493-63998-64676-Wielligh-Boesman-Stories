@@ -1,0 +1,23 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-11-07 10:39:26" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-11-07 10:39:26" width="16px" height="11px"/>
+<image path="images/d4cover.jpg" filesize="60959" filedate="2021-02-28 21:23:42" width="550px" height="720px"/>
+<image path="images/d4p001.png" filesize="19304" filedate="2021-02-27 21:15:53" width="567px" height="418px"/>
+<image path="images/d4p007.png" filesize="34772" filedate="2021-02-28 12:29:29" width="720px" height="437px"/>
+<image path="images/d4p011.png" filesize="12197" filedate="2021-02-28 12:29:31" width="558px" height="181px"/>
+<image path="images/d4p017.png" filesize="17486" filedate="2021-02-28 12:29:32" width="566px" height="183px"/>
+<image path="images/d4p025.png" filesize="20511" filedate="2021-02-28 12:29:34" width="566px" height="244px"/>
+<image path="images/d4p057.png" filesize="58738" filedate="2021-02-28 12:29:38" width="720px" height="554px"/>
+<image path="images/d4p085.png" filesize="54451" filedate="2021-02-28 12:29:43" width="720px" height="542px"/>
+<image path="images/d4p089.png" filesize="45338" filedate="2021-02-28 12:29:48" width="720px" height="530px"/>
+<image path="images/d4p105.png" filesize="48668" filedate="2021-02-28 12:29:52" width="720px" height="528px"/>
+<image path="images/d4p113.png" filesize="9896" filedate="2021-02-28 12:29:54" width="561px" height="176px"/>
+<image path="images/d4p123.png" filesize="36546" filedate="2021-02-28 12:29:58" width="720px" height="427px"/>
+<image path="images/d4p141.png" filesize="13762" filedate="2021-02-28 21:24:22" width="546px" height="179px"/>
+<image path="images/d4p143.png" filesize="44118" filedate="2021-02-28 21:24:27" width="720px" height="542px"/>
+<image path="images/d4p165.png" filesize="10141" filedate="2021-02-28 21:24:28" width="554px" height="182px"/>
+<image path="images/d4p175.png" filesize="43120" filedate="2021-02-28 21:24:32" width="720px" height="424px"/>
+<image path="images/d4titlepage.png" filesize="12498" filedate="2021-02-28 21:24:35" width="489px" height="720px"/>
+<image path="images/external.png" filesize="151" filedate="2018-06-16 18:15:52" width="12px" height="12px"/>
+<image path="images/qr64676.png" filesize="269" filedate="2021-03-03 15:36:23" width="148px" height="148px"/>
+</images>

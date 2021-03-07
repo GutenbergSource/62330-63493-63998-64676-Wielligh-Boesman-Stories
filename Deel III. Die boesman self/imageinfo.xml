@@ -1,0 +1,26 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-11-07 10:39:26" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-11-07 10:39:26" width="16px" height="11px"/>
+<image path="images/d3cover.jpg" filesize="64119" filedate="2020-11-14 18:18:23" width="555px" height="720px"/>
+<image path="images/d3frontis.jpg" filesize="67308" filedate="2020-11-13 21:50:29" width="467px" height="500px"/>
+<image path="images/d3p017.png" filesize="33754" filedate="2020-11-13 21:50:23" width="561px" height="371px"/>
+<image path="images/d3p033.jpg" filesize="127409" filedate="2020-11-13 21:50:25" width="720px" height="581px"/>
+<image path="images/d3p051.jpg" filesize="35839" filedate="2020-11-14 09:25:24" width="565px" height="180px"/>
+<image path="images/d3p053.jpg" filesize="128015" filedate="2020-11-14 09:25:24" width="720px" height="593px"/>
+<image path="images/d3p069.jpg" filesize="78229" filedate="2020-11-14 09:25:24" width="579px" height="439px"/>
+<image path="images/d3p075.png" filesize="38669" filedate="2020-11-14 09:25:31" width="720px" height="493px"/>
+<image path="images/d3p078.png" filesize="11651" filedate="2020-11-14 09:25:32" width="282px" height="260px"/>
+<image path="images/d3p079.jpg" filesize="35521" filedate="2020-11-14 09:25:32" width="574px" height="203px"/>
+<image path="images/d3p085.png" filesize="47002" filedate="2020-11-14 13:58:01" width="720px" height="546px"/>
+<image path="images/d3p103.jpg" filesize="38288" filedate="2020-11-14 14:01:07" width="564px" height="189px"/>
+<image path="images/d3p120.jpg" filesize="84610" filedate="2020-11-14 14:04:46" width="577px" height="442px"/>
+<image path="images/d3p121.jpg" filesize="127112" filedate="2020-11-14 14:14:13" width="720px" height="541px"/>
+<image path="images/d3p128.jpg" filesize="50537" filedate="2020-11-14 18:18:23" width="558px" height="467px"/>
+<image path="images/d3p135.jpg" filesize="39789" filedate="2020-11-14 18:18:23" width="562px" height="185px"/>
+<image path="images/d3p137.jpg" filesize="88190" filedate="2020-11-14 18:18:23" width="575px" height="456px"/>
+<image path="images/d3p146.jpg" filesize="35681" filedate="2020-11-14 18:18:23" width="550px" height="291px"/>
+<image path="images/d3p190.jpg" filesize="64289" filedate="2020-11-14 18:18:24" width="524px" height="443px"/>
+<image path="images/d3titlepage.png" filesize="12278" filedate="2020-11-13 21:50:29" width="482px" height="720px"/>
+<image path="images/external.png" filesize="151" filedate="2018-06-16 18:15:52" width="12px" height="12px"/>
+<image path="images/qrcode.png" filesize="267" filedate="2020-12-10 16:19:15" width="148px" height="148px"/>
+</images>
